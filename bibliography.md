@@ -10,6 +10,8 @@ This is a collaborative, annotated bibliography of key literature related to the
 
 *This section lists papers that offer alternative explanations for the observed marks.*
 
+- Domínguez-Rodrigo, M., Pickering, T. R., Semaw, S., & Rogers, M. J. (2011). A Pliocene archaeofauna from Dikika, Ethiopia. *Journal of Human Evolution*, 61(1), 1-11. [Summary: This paper challenges the stone-tool interpretation of the Dikika bone marks, proposing that trampling by animals could produce similar marks. It argues for a more cautious interpretation of early hominin behavior.]
+
 ## Further Reading
 
 *Other relevant publications.*
